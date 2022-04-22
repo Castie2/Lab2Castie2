@@ -13,8 +13,12 @@ A prediction I can make is people will have more happy tweets friday mornings as
 
 2. export the two maps to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different geospatial patterns on the map. (POINT 15)
 When analyzing the word clouds, both seemeed very similar I expected a variance between the times and days.
+![alt text](https://github.com/Castie2/Lab2Castie2/main/img/ScreenshotofMapAM.jpg?raw=true)
 ![MAP AM](http://img/ScreenshotofMapAM.jpg)
-[file.pdf](img/ScreenshotofMapAM)
+![MAP AM](main/img/ScreenshotofMapAM.jpg)
+![MAP AM](/main/img/ScreenshotofMapAM.jpg)
+[ScreenshotofMapAM.jpg](Lab2Castie2/img/ScreenshotofMapAM.jpg)
+[ScreenshotofMapAM.jp
 ![MAP PM](http://img/ScreenshotofMapPM.jpg)
 
 3. export the two word clouds to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different context. (POINT 15)
